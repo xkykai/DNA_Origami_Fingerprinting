@@ -1,10 +1,15 @@
 Data/
 NN_weights/
+NN_weights_noFFT/
 
 *.png
 *.mp4
 *.txt
+*.csv
 *.jpg
 *.jpeg
 *.pdf
 *.pptx
+*.svg
+
+*.pth
